@@ -66,7 +66,7 @@ export default function Home() {
               <p className="text-sm text-muted-foreground">Projects</p>
             </div>
             <div className="p-4 bg-background rounded-lg border border-border hover:border-blue-600 transition-colors">
-              <div className="text-3xl font-bold text-blue-600">15+</div>
+              <div className="text-3xl font-bold text-blue-600">10+</div>
               <p className="text-sm text-muted-foreground">Years</p>
             </div>
             <div className="p-4 bg-background rounded-lg border border-border hover:border-amber-600 transition-colors">

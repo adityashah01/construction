@@ -103,7 +103,7 @@ export default function Contact() {
                   <div>
                     <h3 className="font-semibold mb-1">Email</h3>
                     <a
-                      href="mailto:info@energeticnepal.com"
+                      href="mailto:info@energeticnepal.com.np"
                       className="text-muted-foreground hover:text-primary transition-colors"
                     >
                       info@energeticnepal.com.np
