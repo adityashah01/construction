@@ -100,8 +100,8 @@ export default function Footer() {
               </li>
               <li className="flex gap-2">
                 <Mail className="w-4 h-4 flex-shrink-0 mt-0.5 text-accent" />
-                <a href="mailto:info@energeticnepal.com" className="hover:text-primary transition-colors">
-                  info@energeticnepal.com
+                <a href="mailto:info@energeticnepal.com.np" className="hover:text-primary transition-colors">
+                  info@energeticnepal.com.np
                 </a>
               </li>
             </ul>
