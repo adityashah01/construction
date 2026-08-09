@@ -106,7 +106,7 @@ export default function Contact() {
                       href="mailto:info@energeticnepal.com"
                       className="text-muted-foreground hover:text-primary transition-colors"
                     >
-                      info@energeticnepal.com
+                      info@energeticnepal.com.np
                     </a>
                   </div>
                   

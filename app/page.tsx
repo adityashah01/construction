@@ -38,7 +38,7 @@ export default function Home() {
 
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto mb-8 text-balance">
             Energetic Nepal specializes in electrical substations, infrastructure projects, and construction management
-            with over 15 years of excellence.
+            with over 10 years of excellence.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
@@ -62,7 +62,7 @@ export default function Home() {
           {/* Stats */}
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mt-16">
             <div className="p-4 bg-background rounded-lg border border-border hover:border-red-600 transition-colors">
-              <div className="text-3xl font-bold text-red-600">180+</div>
+              <div className="text-3xl font-bold text-red-600">50+</div>
               <p className="text-sm text-muted-foreground">Projects</p>
             </div>
             <div className="p-4 bg-background rounded-lg border border-border hover:border-blue-600 transition-colors">
@@ -70,7 +70,7 @@ export default function Home() {
               <p className="text-sm text-muted-foreground">Years</p>
             </div>
             <div className="p-4 bg-background rounded-lg border border-border hover:border-amber-600 transition-colors">
-              <div className="text-3xl font-bold text-amber-600">500+</div>
+              <div className="text-3xl font-bold text-amber-600">50+</div>
               <p className="text-sm text-muted-foreground">Team Members</p>
             </div>
             <div className="p-4 bg-background rounded-lg border border-border hover:border-green-600 transition-colors">
